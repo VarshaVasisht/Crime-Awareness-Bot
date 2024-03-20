@@ -19,8 +19,8 @@
     User friendly Chabot Based Crime Awareness System.
     <br />
     <br/>
-    <a href="https://github.com/bqwerr/Crime-Awareness-Bot">Repository</a>
-    <!-- · <a href="https://bqwerr.github.io">Explore the docs</a> -->
+    <a href="https://github.com/VarshaVasisht/Crime-Awareness-Bot.git">Repository</a>
+    
   </p>
 </div>
 
@@ -140,7 +140,7 @@ To get a local copy of this application up and running follow these example step
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/bqwerr/Crime-Awareness-Bot.git
+   https://github.com/VarshaVasisht/Crime-Awareness-Bot.git
    ```
 2. In the root project directory, open a terminal and create a virtual environment to install python libraries.
 
