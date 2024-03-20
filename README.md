@@ -212,10 +212,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 
-## Contributors
 
-[Srujan Tumma][linkedin] \
-[Sai Kiran Kammari][SaiLinkedin]
 
 
 
