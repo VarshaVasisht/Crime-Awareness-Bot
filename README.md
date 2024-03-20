@@ -44,11 +44,7 @@
         <li><a href="#usage">Usage</a></li>
       </ul>
     </li>
-    <!-- <li><a href="#features">Features</a></li> -->
-    <li><a href="#contributors">Contributors</a></li>
-    <!-- <li><a href="#license">License</a></li> -->
-    <!-- <li><a href="#contributors">Contact</a></li> -->
-    <li><a href="#references">References</a></li>
+  <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -226,9 +222,5 @@ Don't forget to give the project a star! Thanks again!
 * https://www.nltk.org/
 
 
-[website]: https://bqwerr.github.io
-[linkedin]: https://linkedin.com/in/srujan-tumma
-[gmail]: mailto:tummasrujan@gmail.com
-[github]: https://github.com/bqwerr
-[SaiLinkedin]: https://www.linkedin.com/in/saikirankammari/
+
 
