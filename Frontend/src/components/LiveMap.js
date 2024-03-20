@@ -13,7 +13,7 @@ import backend from "../config";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons";
 
-const token = 'Your MapBox Token';
+const token = 'pk.eyJ1IjoibGF6eWtuaWdodCIsImEiOiJja2RuZmt4bG0wYW1wMnFtcTZydjdnb2wwIn0.woXnjFaoLg6_ahlq1bSMVg';
 mapboxgl.accessToken = token;
 
 

@@ -105,6 +105,11 @@
       "tag": "Theft",
       "patterns":["what is theft", "theft"],
       "responses":["Theft, also known as larceny, is a serious crime that involves unlawfully taking or using property that belongs to another person. If you have been arrested for theft, you have either been charged with petty theft or grand theft."]
+    },
+    {
+      "tag": "cybercrime",
+      "patterns": ["cybercrime", "what is cybercrime"],
+      "responses": ["criminal activities carried out by means of computers or the internet"]
     }
     
   ]

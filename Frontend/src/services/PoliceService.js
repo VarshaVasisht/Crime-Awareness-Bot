@@ -3,7 +3,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import backend from "../config";
 
 async function forwardGeocoding(place) {
-    let response = await fetch("https://api.mapbox.com/geocoding/v5/mapbox.places/" + place + ".json?access_token=Your MapBox Token")
+    let response = await fetch("https://api.mapbox.com/geocoding/v5/mapbox.places/" + place + ".json?access_token=pk.eyJ1IjoibGF6eWtuaWdodCIsImEiOiJja2RuZmt4bG0wYW1wMnFtcTZydjdnb2wwIn0.woXnjFaoLg6_ahlq1bSMVg")
     let data = await response.json();
 
     return data['features'][0].center;

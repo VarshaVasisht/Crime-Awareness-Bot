@@ -5,7 +5,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 // Function that returns name of the place from latitude and longitude works only if the lat,long are exact and have more decimal places
 
 async function reverseGeocoding(latitude, longitude) {
-    let response = await fetch("https://api.mapbox.com/geocoding/v5/mapbox.places/" + longitude + ',' + latitude + ".json?access_token=Your MapBox TOken");
+    let response = await fetch("https://api.mapbox.com/geocoding/v5/mapbox.places/" + longitude + ',' + latitude + ".json?access_token=pk.eyJ1IjoibGF6eWtuaWdodCIsImEiOiJja2RuZmt4bG0wYW1wMnFtcTZydjdnb2wwIn0.woXnjFaoLg6_ahlq1bSMVg");
     let data = await response.json()
     return data;
 }
